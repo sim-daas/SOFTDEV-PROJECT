@@ -26,7 +26,7 @@ A basic web application featuring an HTML/CSS frontend and a FastAPI backend, de
   - Image Compression
 
 **Tech Stack:**
-- **Frontend:** 
+- [**Frontend:**](FRONTEND.md)
   - HTML
   - CSS
 - **Backend:** 
