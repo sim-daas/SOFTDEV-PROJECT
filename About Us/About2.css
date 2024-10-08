@@ -838,3 +838,15 @@ body {
     width: 100%;
   }
 }
+
+
+#I1, #I2, #I3, #I4, #I5 {
+    height: 700px;
+    width: 550px;
+    transition: transform 0.3s ease-in-out;
+}
+
+#I1:hover, #I2:hover, #I3:hover, #I4:hover, #I5:hover {
+    transform: scale(1.05); /* Slightly enlarges the image on hover */
+}
+
