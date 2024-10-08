@@ -1,20 +1,21 @@
 PLEASE ADD IDEAS AND SUGGESTIONS IF YOU HAVE ANY
 
+### IIIT NR STUDENT HUB WEBSITE ####
 
+## IDEAS TO BE INCORPORATED 
 
-# SOFTDEV-PROJECT
+1. movie recomendation system
+2. mess food menu and review system
 
-## IDEAS
+## IDEAS FOR THE FUTURE
 
 1. fitness tracker app
-2. movie recomendation system
-3. mess food menu and review system
-4. small ai apps
+2. small ai apps
 
 ### Project Overview: Web Application with different apps/features
 
 **Description:**  
-A basic web application featuring an HTML/CSS frontend and a FastAPI backend, designed to offer various AI tasks through API requests.
+A basic web application featuring an HTML/CSS/JS/REACT frontend and a FastAPI backend, designed to offer various AI tasks through API requests.
 
 **Key Features:**
 - **AI Tasks:**
@@ -29,6 +30,8 @@ A basic web application featuring an HTML/CSS frontend and a FastAPI backend, de
 - [**Frontend:**](FRONTEND.md)
   - HTML
   - CSS
+  - JS
+  - REACT
 - **Backend:** 
   - FastAPI (Python)
 - **Database:** 
